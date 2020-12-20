@@ -1,0 +1,145 @@
+body {
+  background: linear-gradient(90deg, rgba(75, 6, 193, 1) 0%, rgba(206, 2, 189, 1) 100%);
+}
+
+
+
+.firstdiv{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.heading{
+  width: 40%;
+  height: 700px;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  padding: 100px 50px 50px 100px;
+
+}
+
+.tiny{
+  width: 50%;
+  padding-top: 90px; 
+
+
+}
+
+#Mainheading{
+  font-size: 90px;
+  text-align: left;
+
+}
+#Mainheading2{
+  font-size: 30px;
+  text-align: left;
+
+}
+
+
+#bottom
+{
+    border: rgb(167, 233, 250);
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    padding: 10px;
+    background: linear-gradient(180deg, rgb(167, 233, 250) 0%, rgb(7, 135, 167) 100%);
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.2s;
+    color: white;
+}
+
+
+.secdiv
+{
+  background: linear-gradient(90deg, #9803be, #660798);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.svg{
+  padding: 50px;
+  width: 700px;
+}
+
+
+
+.secheading
+{
+    width: 40%;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding: 60px 0px 50px 30px;
+    text-align: left;  
+}
+
+
+.centerheading
+{
+    width: 40%;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding: 60px 0px 50px 100px;
+    text-align: left;  
+}
+
+
+.centerheading h1
+{
+  font-size: 70px;
+}
+
+.secheading h1
+{
+  font-size: 70px;
+}
+
+#secpara
+{
+  font-size: 20px;
+}
+
+
+
+
+.about
+{
+  background: linear-gradient(to right, #4c027e, #7522b6);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.avatar img
+{
+  width: 400px;
+  padding: 80px;
+}
+
+.details{
+  color: white;
+  font-size: 30px;
+  padding: 80px;
+}
+
+
+
+#footer
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(to left, #350157, #853bbd);
+  color: white;
+  text-align: left;
+  padding-left: 30px ;
+}
