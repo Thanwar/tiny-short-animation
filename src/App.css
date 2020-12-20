@@ -11,20 +11,18 @@ body {
 }
 
 .heading{
-  width: 40%;
+  width: 30%;
   height: 700px;
   text-align: center;
   justify-content: center;
   color: white;
-  padding: 100px 50px 50px 100px;
+  padding: 70px 100px 150px 100px;
 
 }
 
 .tiny{
   width: 50%;
-  padding-top: 90px; 
-
-
+  padding: 70px 0px 150px 50px ; 
 }
 
 #Mainheading{
@@ -63,8 +61,13 @@ body {
 }
 
 .svg{
-  padding: 50px;
-  width: 700px;
+  padding: 80px 180px 100px 80px ;
+  width: 500px;
+}
+
+.centersvg{
+  padding: 80px 80px 100px 80px ;
+  width: 500px;
 }
 
 
@@ -88,7 +91,7 @@ body {
     text-align: center;
     justify-content: center;
     color: white;
-    padding: 60px 0px 50px 100px;
+    padding: 60px 0px 20px 80px;
     text-align: left;  
 }
 

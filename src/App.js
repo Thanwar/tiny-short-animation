@@ -55,7 +55,7 @@ function App() {
             the way from discovery, to consideration, to conversion.
           </p>
         </div>
-        <div className="svg">
+        <div className="centersvg">
           <img src={img2} alt="img" />
         </div>
       </div>
