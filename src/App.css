@@ -16,22 +16,22 @@ body {
   text-align: center;
   justify-content: center;
   color: white;
-  padding: 70px 100px 150px 100px;
+  padding: 20px 100px 150px 100px;
 
 }
 
 .tiny{
   width: 50%;
-  padding: 70px 0px 150px 50px ; 
+  padding: 40px 0px 150px 50px ; 
 }
 
 #Mainheading{
-  font-size: 90px;
+  font-size: 70px;
   text-align: left;
 
 }
 #Mainheading2{
-  font-size: 30px;
+  font-size: 20px;
   text-align: left;
 
 }
